@@ -3,7 +3,7 @@
 **Ultimo aggiornamento:** [1.0]
 
 ## Introduzione
-Cognitive Games ("noi", "nostro") rispetta la tua privacy. Questa informativa descrive come raccogliamo, utilizziamo e proteggiamo i tuoi dati personali.
+Cognitive Games rispetta la tua privacy. Questa informativa descrive come raccogliamo, utilizziamo e proteggiamo i tuoi dati personali.
 
 ## Dati Raccolti
 
