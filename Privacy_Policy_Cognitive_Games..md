@@ -1,6 +1,6 @@
 # Privacy Policy - Cognitive Games
 
-**Ultimo aggiornamento:** [1.0]
+**Ultimo aggiornamento:** [1.5]
 
 ## Introduzione
 Cognitive Games rispetta la tua privacy. Questa informativa descrive come raccogliamo, utilizziamo e proteggiamo i tuoi dati personali.
